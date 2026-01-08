@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 651.7422 201.28906" width="651.7422" height="201.28906">
+  <defs/>
+  <g id="Canvas_8" stroke-opacity="1" stroke="none" fill-opacity="1" stroke-dasharray="none" fill="none">
+    <title>Canvas 8</title>
+    <g id="Canvas_8_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_3">
+        <text transform="translate(5 5)" fill="#838787">
+          <tspan font-family="Futura" font-size="144" fill="#838787" x="0" y="150" xml:space="preserve">Stack</tspan>
+          <tspan font-family="Futura" font-size="144" fill="#005493" y="150" xml:space="preserve">HPC</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
