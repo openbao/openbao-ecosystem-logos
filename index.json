@@ -1,0 +1,170 @@
+{
+  "adfinis": {
+    "dark": "adfinis.svg",
+    "light": "adfinis.svg",
+    "alt": "Adfinis",
+    "url": "https://www.adfinis.com/en/partners-and-products/openbao?mtm_campaign=openbao&mtm_kwd=global&mtm_source=openbao&mtm_medium=website"
+  },
+  "apeirora": {
+    "dark": "apeirora.svg",
+    "light": "apeirora.svg",
+    "alt": "ApeiroRA",
+    "url": "https://apeirora.eu"
+  },
+  "bespinian": {
+    "dark": "bespinian.svg",
+    "light": "bespinian.svg",
+    "alt": "bespinian",
+    "url": "https://bespinian.io/en/openbao?utm_source=openbao&utm_medium=referral&utm_campaign=openbao_offering"
+  },
+  "blendbyte": {
+    "dark": "blendbyte.svg",
+    "light": "blendbyte.svg",
+    "alt": "Blendbyte",
+    "url": "https://www.blendbyte.com"
+  },
+  "c4a": {
+    "dark": "c4a/dark.svg",
+    "light": "c4a/light.svg",
+    "alt": "Crypto4A",
+    "url": "https://crypto4a.com"
+  },
+  "controlplane": {
+    "dark": "controlplane/dark.svg",
+    "light": "controlplane/light.svg",
+    "alt": "ControlPlane",
+    "url": "https://controlplane.io"
+  },
+  "duokey": {
+    "dark": "duokey/dark.svg",
+    "light": "duokey/light.svg",
+    "alt": "DuoKey",
+    "url": "https://duokey.com"
+  },
+  "eu_bmwk": {
+    "dark": "eu_bmwk.svg",
+    "light": "eu_bmwk.svg",
+    "alt": "European Union - NextGenerationEU",
+    "url": "https://commission.europa.eu/strategy-and-policy/recovery-plan-europe_en"
+  },
+  "fermilab": {
+    "dark": "fermilab.svg",
+    "light": "fermilab.svg",
+    "alt": "Fermilab",
+    "url": "https://www.fnal.gov"
+  },
+  "gateplane": {
+    "dark": "gateplane/dark.svg",
+    "light": "gateplane/light.svg",
+    "alt": "GatePlane",
+    "url": "https://gateplane.io"
+  },
+  "gitlab": {
+    "dark": "gitlab.svg",
+    "light": "gitlab.svg",
+    "alt": "GitLab",
+    "url": "https://gitlab.com"
+  },
+  "helvethink": {
+    "dark": "helvethink.svg",
+    "light": "helvethink.svg",
+    "alt": "Helvethink",
+    "url": "https://www.helvethink.ch"
+  },
+  "kubermatic": {
+    "dark": "kubermatic/dark.svg",
+    "light": "kubermatic/light.svg",
+    "alt": "Kubermatic",
+    "url": "https://www.kubermatic.com"
+  },
+  "liquidreply": {
+    "dark": "liquidreply/dark.svg",
+    "light": "liquidreply/light.svg",
+    "alt": "Liquid Reply",
+    "url": "https://liquidreply.net"
+  },
+  "natron": {
+    "dark": "natron/dark.svg",
+    "light": "natron/light.svg",
+    "alt": "Natron Tech AG",
+    "url": "https://natron.io"
+  },
+  "nitrokey": {
+    "dark": "nitrokey/dark.svg",
+    "light": "nitrokey/light.svg",
+    "alt": "Nitrokey",
+    "url": "https://www.nitrokey.com"
+  },
+  "nvidia": {
+    "dark": "nvidia/dark.svg",
+    "light": "nvidia/light.svg",
+    "alt": "NVIDIA Cloud Functions (NVCF)",
+    "url": "https://github.com/NVIDIA/nvcf"
+  },
+  "origoss-solutions": {
+    "dark": "origoss-solutions/dark.svg",
+    "light": "origoss-solutions/light.svg",
+    "alt": "Origoss Solutions",
+    "url": "https://origoss.com"
+  },
+  "ovhcloud": {
+    "dark": "ovhcloud.svg",
+    "light": "ovhcloud.svg",
+    "alt": "OVHcloud",
+    "url": "https://www.ovhcloud.com"
+  },
+  "percona": {
+    "dark": "percona.svg",
+    "light": "percona.svg",
+    "alt": "Percona",
+    "url": "https://www.percona.com"
+  },
+  "proton": {
+    "dark": "proton.svg",
+    "light": "proton.svg",
+    "alt": "Proton",
+    "url": "https://proton.me"
+  },
+  "sigstore": {
+    "dark": "sigstore/dark.svg",
+    "light": "sigstore/light.svg",
+    "alt": "Sigstore",
+    "url": "https://www.sigstore.dev"
+  },
+  "sap": {
+    "dark": "sap.svg",
+    "light": "sap.svg",
+    "alt": "SAP SE",
+    "url": "https://sap.com"
+  },
+  "securosys": {
+    "dark": "securosys.svg",
+    "light": "securosys.svg",
+    "alt": "Securosys",
+    "url": "https://www.securosys.com"
+  },
+  "stackhpc": {
+    "dark": "stackhpc.svg",
+    "light": "stackhpc.svg",
+    "alt": "StackHPC",
+    "url": "https://www.stackhpc.com"
+  },
+  "trutzio": {
+    "dark": "trutzio/dark.svg",
+    "light": "trutzio/light.svg",
+    "alt": "trutz.io",
+    "url": "https://trutz.io"
+  },
+  "utimaco": {
+    "dark": "utimaco/dark.svg",
+    "light": "utimaco/light.svg",
+    "alt": "Utimaco",
+    "url": "https://utimaco.com"
+  },
+  "warden": {
+    "dark": "warden.svg",
+    "light": "warden.svg",
+    "alt": "Warden",
+    "url": "https://wardengateway.com"
+  }
+}
